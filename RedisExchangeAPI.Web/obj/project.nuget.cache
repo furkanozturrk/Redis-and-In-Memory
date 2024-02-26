@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h4wHIb9oClC4x3GtRUyquo5rNbDTqpsEq393lZTNZMlx/4ms2qyngZMv2/gidi7O2ZDwYbgpRE1CnyCQT75J0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furkan.ozturk\\Desktop\\Furkan\\Çalışmalar\\Fatih_ÇakırOğlu\\Redis\\RedisInMemory\\RedisExchangeAPI.Web\\RedisExchangeAPI.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\stackexchange.redis\\2.7.17\\stackexchange.redis.2.7.17.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

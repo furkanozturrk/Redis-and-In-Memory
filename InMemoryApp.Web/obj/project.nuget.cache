@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaeArvkKqz7Rg1uXcfF3Za6CBx2A66IG3qLSho6/JLGQIR4tDaSVidMQIucnSeEG+eeuZaQ4h7LxXY1IQxlwtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furkan.ozturk\\Desktop\\Furkan\\Çalışmalar\\Fatih_ÇakırOğlu\\Redis\\RedisInMemory\\InMemoryApp.Web\\InMemoryApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.1\\microsoft.extensions.caching.stackexchangeredis.8.0.1.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\furkan.ozturk\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

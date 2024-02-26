@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IDistributedCacheRedisApp.Web
+build_property.RootNamespace = IDistributedCacheRedisApp.Web
+build_property.ProjectDir = C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\Redis\RedisInMemory\IDistributedCacheRedisApp.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\furkan.ozturk\Desktop\Furkan\Çalışmalar\Fatih_ÇakırOğlu\Redis\RedisInMemory\IDistributedCacheRedisApp.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/ProductsImage/ImageCache.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNJbWFnZVxJbWFnZUNhY2hlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/ProductsImage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNJbWFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/ProductsImage/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNJbWFnZVxSZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/ProductsImage/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNJbWFnZVxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Products/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUmVtb3ZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Products/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Product/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxSZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Product/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furkan.ozturk/Desktop/Furkan/Çalışmalar/Fatih_ÇakırOğlu/Redis/RedisInMemory/IDistributedCacheRedisApp.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pinnkrdijn
